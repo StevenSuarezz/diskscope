@@ -21,6 +21,6 @@ make
 
 echo "====================="
 echo "Running executable..."
-echo "====================="
+echo "#####################"
 
 ./bin/diskscope
